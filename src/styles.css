@@ -1,1 +1,15 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+input{
+    height: 40px;
+    width: 400px;
+}
+button{
+    height: 40px;
+    width: 50px;
+    background: lightcoral;
+    color: whitesmoke;
+}

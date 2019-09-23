@@ -1,0 +1,10 @@
+td{
+    background: lightblue;
+    padding: 5px;
+
+}
+th{
+    background: brown;
+    color: white;
+    padding: 5px;
+}
